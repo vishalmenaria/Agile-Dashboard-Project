@@ -49,4 +49,4 @@ MBA (Business Analytics & Marketing)
 
 ---
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
